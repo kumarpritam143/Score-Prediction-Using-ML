@@ -1,0 +1,1 @@
+This project aims to predict scores using machine learning regression algorithms. It involves analyzing a dataset containing features such as study hours, previous scores, and other relevant factors to predict the score of a student in a particular subject or exam.
